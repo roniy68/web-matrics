@@ -1,0 +1,29 @@
+.country {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  min-height: 200px;
+  height: 100%;
+  font-family: 'Cabin', sans-serif;
+  font-size: 1.2rem;
+  padding: 1rem;
+  box-sizing: border-box;
+  background-color: #d74727;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.flag {
+  width: 50%;
+}
+
+.countryName {
+  margin: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
