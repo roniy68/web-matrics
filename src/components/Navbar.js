@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className={styles.navbar}>
       <NavLink to="/" className={styles.link}>
-        { location.pathname !== '/' && <IoChevronBack className={styles.back} /> }
+        {location.pathname !== '/' && <IoChevronBack className={styles.back} />}
       </NavLink>
       <Outlet />
     </div>
