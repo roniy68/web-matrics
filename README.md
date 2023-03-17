@@ -169,9 +169,8 @@ If you like this project, please consider giving it a ⭐.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-This project was inspired by:
-- [GitHub Finder](https://github.com/JasurbekIsokov/github-finder)
+### Design Credit to 
+ - Author :  [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
