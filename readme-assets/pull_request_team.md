@@ -1,16 +1,32 @@
 # Highlights 🥇 
-
+---
+<img src="https://media1.giphy.com/media/0bYndZyFgK8dzKEyLZ/giphy.gif"/>
 
 ## What I Have Done: 
+✅ API  : selected -  https://restcountries.com/v3.1/
+✅ Design:
 
-## Why
-Why this PR is needed?
-## How
-### [ Live Here ](https://roniy68.github.io/leaderboard/)
+- Follw these [design guidelines](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), including:
+- Colors (select one main color for your website).
+- Typography: font face, size and weight.
+- Layout: composition and space between elements.
+- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+✅ Home page
+✅ Details page
+✅ Create unit tests for pure functions in your Redux code.
+- Create integration tests for your application using the React Testing Library.
+- Mock the access to the API, so that your tests don't send actual requests.
+✅ The project is a single-page application (SPA) built with React and Redux.
+
+# Project Documentaion : 
+---
+### ✅ Loom Video : 
+
+
+### [ Live Here ](https://roniy68.github.io/web-matrics/)
 
 ### Changes details
-- Detail one
-- Detail two
+
   ...
 ## Missed anything?
 - [ ] Explained the purpose of this PR.

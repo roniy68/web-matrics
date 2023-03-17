@@ -41,7 +41,6 @@
 }
 
 @media (min-width: 768px) {
-
   .link:nth-child(6n+1),
   .link:nth-child(6n+2),
   .link:nth-child(6n+3) {
