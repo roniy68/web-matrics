@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Country should render the component 1`] = `
+<a
+  className="link"
+  href="/country/Pakistan"
+  onClick={[Function]}
+>
+  <li
+    className="country"
+  >
+    <h2
+      className="countryName"
+    >
+      Pakistan
+      <br />
+      🇵🇰
+    </h2>
+    <p>
+      Asia
+    </p>
+  </li>
+</a>
+`;
