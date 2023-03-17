@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-matrics/static/css/main.3562dc2d.css",
+    "main.js": "/web-matrics/static/js/main.c345d091.js",
+    "index.html": "/web-matrics/index.html",
+    "main.3562dc2d.css.map": "/web-matrics/static/css/main.3562dc2d.css.map",
+    "main.c345d091.js.map": "/web-matrics/static/js/main.c345d091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3562dc2d.css",
+    "static/js/main.c345d091.js"
+  ]
+}
