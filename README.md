@@ -64,7 +64,7 @@ A web-based application to understand about the basics of React - Redux
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-***Live*** :  
+***Live*** :  [Web Matrics](https://roniy68.github.io/web-matrics/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-project
-  git clone git@github.com:roniy68/WebMatrics.git .
+  git clone git@github.com:roniy68/web-matrics.git .
 ```
 
 ### Install
@@ -149,7 +149,6 @@ I am always looking for ways to improve my project. If you have any suggestions 
 ## 📧 Authors <a name="authors"></a>
 
 - ***[Ahmed Hasan Rony](https://github.com/roniy68)***
-- ***[Nwadinigwe Victor chiemerie](https://github.com/Victor-chiemerie)***
 
 ## 🤝 Contributing <a name="contributing"></a>
 
