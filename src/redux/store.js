@@ -1,19 +1,11 @@
-import { configureStore, combineReducers } from '@reduxjs/toolkit';
-import { createLogger } from 'redux-logger';
-import rocketReducer from './rocket/rocketSlice';
-import missionsReducer from './missions/missionsSlice';
+import countriesReducer from './countries/countriesSlice';
 
-const logger = createLogger({
-  predicate: (getState, action) => action.type !== 'SOME_ACTION',
-  collapsed: true,
-});
+const { configureStore } = require('@reduxjs/toolkit');
 
 const store = configureStore({
-  reducer: combineReducers({
-    rockets: rocketReducer,
-    missions: missionsReducer,
-  }),
-  middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(logger),
+  reducer: {
+    countries: countriesReducer,
+  },
 });
 
 export default store;

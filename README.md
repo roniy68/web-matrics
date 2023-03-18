@@ -7,13 +7,13 @@
   <img src="readme-assets/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>SpaceX</b></h3>
+  <h3><b>WebMatrics</b></h3>
 
 </div>
 
 # 📗 Table of Contents
 ## 📑 Table of Contents
-- [📊 spaceX ](#-spacex-)
+- [📊 WebMatrics ](#-WebMatrics-)
   - [🛠 Built With ](#-built-with-)
     - [🧰 Tech Stack ](#-tech-stack-)
     - [💎 Key Features ](#-key-features-)
@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📊 spaceX <a name="about-project"></a>
+# 📊 WebMatrics <a name="about-project"></a>
 
 A web-based application to understand about the basics of React - Redux 
 
@@ -64,7 +64,7 @@ A web-based application to understand about the basics of React - Redux
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-***Live*** :  [spaceX](https://ahr-spacex.netlify.app/).
+***Live*** :  [Web Matrics](https://roniy68.github.io/web-matrics/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-project
-  git clone git@github.com:roniy68/spaceX.git .
+  git clone git@github.com:roniy68/web-matrics.git .
 ```
 
 ### Install
@@ -149,7 +149,6 @@ I am always looking for ways to improve my project. If you have any suggestions 
 ## 📧 Authors <a name="authors"></a>
 
 - ***[Ahmed Hasan Rony](https://github.com/roniy68)***
-- ***[Nwadinigwe Victor chiemerie](https://github.com/Victor-chiemerie)***
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -170,9 +169,8 @@ If you like this project, please consider giving it a ⭐.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-This project was inspired by:
-- [GitHub Finder](https://github.com/JasurbekIsokov/github-finder)
+### Design Credit to 
+ - Author :  [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
